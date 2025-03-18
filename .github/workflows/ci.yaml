@@ -6,7 +6,7 @@ on:
       - main
 
 permissions: # for Deploy to github pages step
-  contents: read
+  contents: write
   pages: write
   id-token: write
 
