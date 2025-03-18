@@ -1,7 +1,8 @@
+# [Live Demo](https://maged-zaki.github.io/product-builder/)
+
 # product-builder
 
 ![](./project-test.gif)
-
 
 ## Installation Steps
 
